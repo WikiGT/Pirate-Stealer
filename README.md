@@ -1,5 +1,5 @@
 # PirateStealer
-Discord Password Token Grabber
+🌊 Discord Password Token Grabber
 
 ### 2 detections
 
